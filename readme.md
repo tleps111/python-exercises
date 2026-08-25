@@ -9,4 +9,6 @@ Python and VSCode are installed, print hello world exercise done, mod01 folder i
 ## Module 2
 The environment set up is complete, files are pushed to the GitHub.The exeercise is also updated, "
 
-## Module 3 and so on...
+## Module 3 
+Greet & Print name, Area of Circle and Area & Perimeter 
+assignments are done and added to github
