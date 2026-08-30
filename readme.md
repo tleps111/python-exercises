@@ -7,8 +7,13 @@ Gökhan Korkmaz
 Python and VSCode are installed, print hello world exercise done, mod01 folder is opened and the first exercise has been moved inside the mod01 folder, readme file is created and updated. We started to learn version control. 
 
 ## Module 2
-The environment set up is complete, files are pushed to the GitHub.The exeercise is also updated, "
+The environment set up is complete, files are pushed to the GitHub.The exeercise is also updated.
 
 ## Module 3 
-Greet & Print name, Area of Circle and Area & Perimeter 
-assignments are done and added to github
+All the assignments are completed except combination lock one. 
+
+## Module 4 
+All the assignments are completed
+
+## Project 1. Starting the Programming Project Assignment
+Complete, please check the own readme file for the project from now on.
