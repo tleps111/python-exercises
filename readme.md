@@ -10,10 +10,13 @@ Python and VSCode are installed, print hello world exercise done, mod01 folder i
 The environment set up is complete, files are pushed to the GitHub.The exeercise is also updated.
 
 ## Module 3 
-All the assignments are completed except combination lock one. 
+All the assignments are completed. 
 
 ## Module 4 
 All the assignments are completed
 
 ## Project 1. Starting the Programming Project Assignment
 Complete, please check the own readme file for the project from now on.
+
+## Module 5
+All the assignments are completed. TBH it started to feel a bit harder than previous ones, I understand the logic and everything, I had to get more help online and read more in order to complete the assignments this time. ps. combination lock assighnment is now complete from mod03
