@@ -15,4 +15,3 @@ else:
             print("Explore the King's landing")
         print("MAIN MENU:\nAttack\nDefend\nExplore\nLopeta")
         command = input("Enter command: ").lower()
-    
