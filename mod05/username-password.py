@@ -1,7 +1,6 @@
 attempts = 1
 username = input("username: ")
 password = input("password: ")
-
 while (username != "python" or password != "rules") and attempts < 5:
     username = input("username: ")
     password = input("password: ")
