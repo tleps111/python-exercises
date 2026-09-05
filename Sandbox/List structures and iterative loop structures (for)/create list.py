@@ -1,0 +1,1 @@
+names = ["Viivi", "Ahmed", "Pekka", "Olga", "Mary"]

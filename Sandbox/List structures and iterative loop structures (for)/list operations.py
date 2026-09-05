@@ -5,4 +5,3 @@ while name != "":
     name = input("Enter the first name or quit by pressing Enter:  ")
 
 print(names)
-
