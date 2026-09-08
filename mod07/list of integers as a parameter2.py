@@ -12,10 +12,7 @@ def function_name(numbers):
             second_list.append(i)
     return second_list
 
-original_list=[0,2,4,6,7,9,32,65,89,94]
+original_list = [0,2,4,6,7,9,32,65,89,94]
 result = function_name(original_list)
 print(original_list)
 print(result)
-
-
-    
