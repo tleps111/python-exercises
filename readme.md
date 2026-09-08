@@ -20,3 +20,9 @@ Complete, please check the own readme file for the project from now on.
 
 ## Module 5
 All the assignments are completed. TBH it started to feel a bit harder than previous ones, I understand the logic and everything, I had to get more help online and read more in order to complete the assignments this time. ps. combination lock assighnment is now complete from mod03
+
+## Module 6
+All the asignments are done. This also was not very easy to grasp as we had to skip the lecture due to strike, but no complaints, all done.
+
+## Module 7
+All the assignments are done. 
