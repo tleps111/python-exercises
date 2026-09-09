@@ -26,3 +26,6 @@ All the asignments are done. This also was not very easy to grasp as we had to s
 
 ## Module 7
 All the assignments are done. 
+
+## Module 8
+All the assignments are ready.
