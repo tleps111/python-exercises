@@ -8,5 +8,3 @@ class Car:
 car1 = (Car("ABC-123", 142))
 print(f"Registration number: {car1.registration_number}, Max Speed: {car1.max_speed} km/h, Current Speed: {car1.current_speed} km/h, Travelled Distance: {car1.travelled_distance} km")
         
-        
-
