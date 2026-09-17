@@ -29,3 +29,6 @@ All the assignments are done.
 
 ## Module 8
 All the assignments are ready.
+
+## Module 9
+I completed the assignments and updated the readme file. I still have some problems with loops. 
