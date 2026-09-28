@@ -34,5 +34,7 @@ All the assignments are ready.
 I completed the assignments and updated the readme file. I still have some problems with loops. 
 
 ## Module 10 
-Assignments 1-2 and 3 are completed. I am honestly so tired to move forward with 4, I will wake up early in order to complete it. 
+Assignments 1-2 and 3 are completed. 4th will be completed soon.
 
+## Mod 11
+Assignment 1 complete, assignment 2 will be completed later today.
