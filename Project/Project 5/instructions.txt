@@ -1,0 +1,7 @@
+INSTRUCTIONS: 
+
+1. Move between rooms.
+2. Collect items.
+3. Check your inventory.
+4. Save your game to continue later.
+5. Quit the game when you want. 
