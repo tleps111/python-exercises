@@ -42,7 +42,7 @@ The main menu allows the player to move between Vormaki and the Obsidian Throne,
 The program has been tested to verify that movement, collecting items and displaying the inventory work correctly.
 
 
-## 5. File Handling
+# 5. File Handling
 This project reads the introduction and instructions from text files and saves and loads game progress using JSON.
 
     - main.py: runs the game.
