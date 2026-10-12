@@ -13,3 +13,6 @@ Commands are:  Attack, Defend, Explore, Lopeta
 It is added that the game has separate functions for the main menu commands. The user can explore King's Landing and find items, which are added to the inventory. The user can also check the items in the inventory.
 Functions are: Attack, Defend, Explore, Inventory 
 
+# 4. Organize the Structure and Introduce Objects
+Please check its own readme file. 
+
