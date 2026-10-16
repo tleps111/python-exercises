@@ -25,6 +25,7 @@ def defend():
 
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
+
 if age < 12:
     print("You are a minor and cannot play this game.")
 else: 
