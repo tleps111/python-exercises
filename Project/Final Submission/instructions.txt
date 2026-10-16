@@ -1,0 +1,46 @@
+
+INSTRUCTIONS: 
+
+1. Enter your name and age to begin. You must be at least 12 years old to play.
+
+2. Use the main menu to move between rooms and explore the Land of 8 Kingdoms.
+
+3. Collect available items, including the Sword, Healing Potion, and 12 sacred potions.
+
+4. Check your inventory to see which items you have collected.
+
+5. Save your progress to a JSON file so you can continue your adventure later. You can also load a previously saved game from the main menu.
+
+6. Use a Healing Potion to restore your health when needed.
+
+7. Collect all 12 sacred potions to meet the requirements for the three story routes.
+
+8. Choose your ending:
+   - Warrior Route: Reach the Obsidian Throne, collect all 12 sacred potions, have the Sword, and defeat King Sepor in combat.
+   - Explorer Route: Reach the Chest of Wisdom with all 12 sacred potions.
+   - Diplomat Route: Reach the Obsidian Throne with all 12 sacred potions and seek a peaceful resolution.
+
+9. Watch your health during combat. If your health reaches zero, your adventure ends.
+
+10. Choose Quit from the main menu when you want to exit the game.
+
+MAIN MENU CONTROLS
+
+1. Move to the next room.
+2. Collect an item.
+3. View your inventory.
+4. Save your game.
+5. Use a Healing Potion.
+6. Fight King Sepor (requires the necessary items and location).
+7. Choose a story route.
+8. Quit the game.
+
+During combat:
+- A = Attack
+- D = Defend
+- H = Use a Healing Potion
+
+When choosing a story route:
+- 1 = Warrior
+- 2 = Explorer
+- 3 = Diplomat
